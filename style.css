@@ -35,7 +35,7 @@ body *{
 #container{
   width: 100%;
   max-width: 588px;
-  margin: 56px auto 0px;
+  margin: 10px auto 0px;
   padding: 0 24px;
 }
 
@@ -47,7 +47,8 @@ padding: 24px;
 }
 
 #profile img{
-  width: 112px;
+  width: 40%;
+  border-radius: 50%;
 }
 
 #profile{
